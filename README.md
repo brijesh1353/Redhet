@@ -20,7 +20,7 @@
 
 <p align="center"> 
 
-<img width="99" height="99" src="https://i.pinimg.com/1200x/8c/fc/f2/8cfcf2a8010fe9a08647754bd93fb1c4.jpg"/>
+<img width="99" height="99" src="https://m.media-amazon.com/images/I/51AYOrWcVxL._SY385_.jpg"/>
 
 <img width="99" height="99" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Seal_of_the_United_States_Department_of_Defense_%282001%E2%80%932022%29.png"/>
 

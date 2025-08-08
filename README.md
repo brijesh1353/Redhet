@@ -15,18 +15,23 @@
 </div>
 
 <br>
-<p align="center"> <img width="433" height="177" src="https://user-images.githubusercontent.com/104733166/236908488-60f25e53-47a8-43d5-a45a-b9b9dd37900e.gif"/>
+<p align="center">
+  <img width="433" height="177" src="https://user-images.githubusercontent.com/104733166/236908488-60f25e53-47a8-43d5-a45a-b9b9dd37900e.gif"/>
+</p>
+
 <br>
-<br>
 
-      
-## <p align="center"> ```𝟢𝟣𝟣𝟢𝟣𝟢𝟢𝟢 𝟢𝟣𝟣𝟢𝟣𝟢𝟢𝟣``` 𝚊𝚗𝚍 𝚆𝚎𝚕𝚌𝚘𝚖𝚎! 👋 <br> <br> [![[Typing SVG](https://lh3.googleusercontent.com/a/ACg8ocI4tae8qTX_7ccifroHlH2ROKzZLeFF54AkSVGJ9LUKJZSzgnYq=s260-c-no)))</p>
+## <p align="center"> `01101000 01101001` and Welcome! 👋 </p>
 
-<p align="center"> 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Bug+Bounty+Hunter;OSINT+Enthusiast;Security+Researcher" alt="Typing SVG"/>
+</p>
 
-<img width="99" height="99" src="https://github.com/user-attachments/assets/20426851-7819-4d76-ac48-f481203becc1"/>
+<p align="center">
+  <img width="99" height="99" src="https://github.com/user-attachments/assets/20426851-7819-4d76-ac48-f481203becc1"/>
+  <img width="99" height="99" src="https://github.com/user-attachments/assets/09a061ff-5f81-485b-b9f7-c6b6ca7d884c"/>
+</p>
 
-<img width="99" height="99" src="https://github.com/user-attachments/assets/09a061ff-5f81-485b-b9f7-c6b6ca7d884c"/>
 
 <img width="99" height="99" src="https://user-images.githubusercontent.com/104733166/166777077-d96c51cb-4038-456f-8ff2-d5209596c655.png"/>
 

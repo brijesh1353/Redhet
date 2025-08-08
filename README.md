@@ -11,7 +11,7 @@
 </div>
 
 <br>
-<p align="center"> <img width="433" height="177" src="https://user-images.githubusercontent.com/104733166/236908488-60f25e53-47a8-43d5-a45a-b9b9dd37900e.gif"/>
+<p align="center"> <img width="433" height="177" src="https://lh3.googleusercontent.com/a/ACg8ocI4tae8qTX_7ccifroHlH2ROKzZLeFF54AkSVGJ9LUKJZSzgnYq=s260-c-no"/>
 <br>
 <br>
 
@@ -92,7 +92,7 @@
    
 <br>
       
-<img width="600px" src="https://lh3.googleusercontent.com/a/ACg8ocI4tae8qTX_7ccifroHlH2ROKzZLeFF54AkSVGJ9LUKJZSzgnYq=s260-c-no" alt="C3n7ral051nt4g3ncy's Most Used Languages"/>
+<img width="600px" src="https://user-images.githubusercontent.com/104733166/236908488-60f25e53-47a8-43d5-a45a-b9b9dd37900e.gif" alt="C3n7ral051nt4g3ncy's Most Used Languages"/>
 
 </p>
 

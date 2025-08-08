@@ -22,11 +22,11 @@
 
 <img width="99" height="99" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKC6L4edRzh8KwqQBAtXeQBVFhjFsnuvxwKQ&s"/>
 
-<img width="99" height="99" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Seal_of_the_United_States_Department_of_Defense_%282001%E2%80%932022%29.png"/>
-
 <img width="99" height="99" src="https://scontent.famd18-1.fna.fbcdn.net/v/t39.30808-6/462365207_946333627536643_8700398047686033444_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=sOBHlEQlT9cQ7kNvwERVMAK&_nc_oc=AdkxtBSlUOD7WH3ppGPvPmYcI0t-jF-pZAc2Q-MBl_UvVs1wC_uGOsDzNdFq2LT86m0&_nc_zt=23&_nc_ht=scontent.famd18-1.fna&_nc_gid=10GUuHQ2WiYtxhymDjaDzQ&oh=00_AfUCzvw53lz6l68eRuRrL9MFZWhQduoFlVPd6gHsz7bz5w&oe=689B97D9"/>
 
 <img width="99" height="99" src="https://cdn.theorg.com/981a3a04-dfc8-4ccd-852a-c6b86310b4ea_thumb.jpg"/>
+
+<img width="99" height="99" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Seal_of_the_United_States_Department_of_Defense_%282001%E2%80%932022%29.png"/>
 </p>
 
 ---

@@ -11,7 +11,7 @@
 </div>
 
 <br>
-<p align="center"> <img width="99" height="99" src="https://lh3.googleusercontent.com/a/ACg8ocI4tae8qTX_7ccifroHlH2ROKzZLeFF54AkSVGJ9LUKJZSzgnYq=s260-c-no"/>
+<p align="center"> <img width="180" height="99" src="https://lh3.googleusercontent.com/a/ACg8ocI4tae8qTX_7ccifroHlH2ROKzZLeFF54AkSVGJ9LUKJZSzgnYq=s260-c-no"/>
 <br>
 <br>
 

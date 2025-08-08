@@ -1,5 +1,3 @@
-# Redhet
-
 <div align="center">
 
 ![GitHub](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=green)
@@ -15,25 +13,22 @@
 </div>
 
 <br>
-<!-- Hacker header image -->
-<p align="center">
-  <img width="433" height="177" src="https://user-images.githubusercontent.com/104733166/236908488-60f25e53-47a8-43d5-a45a-b9b9dd37900e.gif" alt="Hacker GIF"/>
+<p align="center"> <img width="433" height="177" src="https://user-images.githubusercontent.com/104733166/236908488-60f25e53-47a8-43d5-a45a-b9b9dd37900e.gif"/>
+<br>
+<br>
+
+      
+## <p align="center"> ```𝟢𝟣𝟣𝟢𝟣𝟢𝟢𝟢 𝟢𝟣𝟣𝟢𝟣𝟢𝟢𝟣``` 𝚊𝚗𝚍 𝚆𝚎𝚕𝚌𝚘𝚖𝚎! 👋 <br> <br> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Goldman&size=21&duration=3333&pause=333&color=00F72B&background=000000&vCenter=true&multiline=true&width=433&height=133&lines=%24+whoami;C3n7ral051nt4gency.;%5Baka+OSINT+Tactical%5D%F0%9F%93%A1)](https://git.io/typing-svg)</p>
+
+<p align="center"> 
+
+<img width="99" height="99" src="https://github.com/user-attachments/assets/20426851-7819-4d76-ac48-f481203becc1"/>
+
+<img width="99" height="99" src="https://github.com/user-attachments/assets/09a061ff-5f81-485b-b9f7-c6b6ca7d884c"/>
+
+<img width="99" height="99" src="https://user-images.githubusercontent.com/104733166/166777077-d96c51cb-4038-456f-8ff2-d5209596c655.png"/>
+
 </p>
-
-<!-- Binary welcome -->
-<h2 align="center">`01101000 01101001` and Welcome! 👋</h2>
-
-<!-- Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Bug+Bounty+Hunter;OSINT+Enthusiast;Security+Researcher" alt="Typing SVG"/>
-</p>
-
-<!-- Badges -->
-<p align="center">
-  <img width="99" height="99" src="https://github.com/user-attachments/assets/20426851-7819-4d76-ac48-f481203becc1" alt="OSC Badge"/>
-  <img width="99" height="99" src="https://github.com/user-attachments/assets/09a061ff-5f81-485b-b9f7-c6b6ca7d884c" alt="OSINT Badge"/>
-</p>
-
 
 ---
 

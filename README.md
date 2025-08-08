@@ -252,29 +252,7 @@ https://user-images.githubusercontent.com/104733166/233765799-dbfc612f-c8cc-4dd8
 <br>
       
 <br>
-      
-      
-<table>
-<tr>
-    <td align="center">
-        <a href="https://github.com/soxoj">
-            <img src="https://avatars.githubusercontent.com/u/31013580?v=4" width="77;" alt="Soxoj"/>
-            <br />
-            <sub><b>Soxoj</b></sub>
-        </a>
-    </td>
-     <td align="center">
-        <a href="https://github.com/purpl3ac3">
-            <img src="https://avatars.githubusercontent.com/u/180685287?v=4" width="77;" alt="purpl3ac3"/>
-            <br />
-            <sub><b>purpl3ac3</b></sub>
-        </a>
-    </td>
 
-      
-<br>
-
-<br>
 
 
 

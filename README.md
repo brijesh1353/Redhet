@@ -24,7 +24,7 @@
 
 <img width="99" height="99" src="https://images.seeklogo.com/logo-png/17/1/uk-government-crown-crest-logo-png_seeklogo-173969.png"/>
 
-<img width="99" height="99" src="https://user-images.githubusercontent.com/104733166/166777077-d96c51cb-4038-456f-8ff2-d5209596c655.png"/>
+<img width="99" height="99" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Seal_of_the_United_States_Department_of_Defense_%282001%E2%80%932022%29.png"/>
 
 </p>
 

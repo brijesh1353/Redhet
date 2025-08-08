@@ -49,12 +49,42 @@
 <br>
       
 <p align="center">
-<a href="[https://deepsystems.medium.com/]"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white"/></a>
-<a href="[https://x.com/whiteroseRT]"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://keybase.io/osint_intel"><img src="https://img.shields.io/badge/Keybase-33A0FF.svg?style=for-the-badge&logo=Keybase&logoColor=white"/></a>
-<a href="https://www.reddit.com/user/OSINT_Tactical"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
-<a href="https://github.com/C3n7ral051nt4g3ncy"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://top.gg/user/453260546671001600"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <!-- Medium -->
+  <a href="https://deepsystems.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+
+  <!-- X / Twitter -->
+  <a href="https://x.com/whiteroseRT">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/whiterose.jpeg/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <!-- Keybase -->
+  <a href="https://keybase.io/osint_intel">
+    <img src="https://img.shields.io/badge/Keybase-33A0FF.svg?style=for-the-badge&logo=keybase&logoColor=white"/>
+  </a>
+
+  <!-- Reddit -->
+  <a href="https://www.reddit.com/user/OSINT_Tactical">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/C3n7ral051nt4g3ncy">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <!-- Discord -->
+  <a href="https://top.gg/user/453260546671001600">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
+
 
 <br>
 

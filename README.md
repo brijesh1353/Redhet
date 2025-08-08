@@ -15,27 +15,25 @@
 </div>
 
 <br>
+<!-- Hacker header image -->
 <p align="center">
-  <img width="433" height="177" src="https://user-images.githubusercontent.com/104733166/236908488-60f25e53-47a8-43d5-a45a-b9b9dd37900e.gif"/>
+  <img width="433" height="177" src="https://user-images.githubusercontent.com/104733166/236908488-60f25e53-47a8-43d5-a45a-b9b9dd37900e.gif" alt="Hacker GIF"/>
 </p>
 
-<br>
+<!-- Binary welcome -->
+<h2 align="center">`01101000 01101001` and Welcome! 👋</h2>
 
-## <p align="center"> `01101000 01101001` and Welcome! 👋 </p>
-
+<!-- Typing animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Bug+Bounty+Hunter;OSINT+Enthusiast;Security+Researcher" alt="Typing SVG"/>
 </p>
 
+<!-- Badges -->
 <p align="center">
-  <img width="99" height="99" src="https://github.com/user-attachments/assets/20426851-7819-4d76-ac48-f481203becc1"/>
-  <img width="99" height="99" src="https://github.com/user-attachments/assets/09a061ff-5f81-485b-b9f7-c6b6ca7d884c"/>
+  <img width="99" height="99" src="https://github.com/user-attachments/assets/20426851-7819-4d76-ac48-f481203becc1" alt="OSC Badge"/>
+  <img width="99" height="99" src="https://github.com/user-attachments/assets/09a061ff-5f81-485b-b9f7-c6b6ca7d884c" alt="OSINT Badge"/>
 </p>
 
-
-<img width="99" height="99" src="https://user-images.githubusercontent.com/104733166/166777077-d96c51cb-4038-456f-8ff2-d5209596c655.png"/>
-
-</p>
 
 ---
 

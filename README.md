@@ -79,9 +79,6 @@
 
 <p align="center"><a href="https://keybase.io/osint_intel/pgp_keys.asc"><code>PGP PUB KEY</code></a> </p>
 
-<p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=C3n7ral051nt4g3ncy&label=Profile%20views&color=blueviolet&style=flat" alt="C3n7ral051nt4g3ncy"/></p>
-
 <br>
 <p align="center"> 
 <a href=https://github.com/redhet-whiterose>WHITEROSE<a>

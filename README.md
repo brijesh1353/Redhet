@@ -84,7 +84,7 @@
 
 <br>
 <p align="center"> 
-<a href=https://c3n7ral051nt4g3ncy.github.io/index.html>c3n7ral051nt4g3ncy.github.io<a>
+<a href=https://github.com/redhet-whiterose>c3n7ral051nt4g3ncy.github.io<a>
 </p>        
 <br>
 <br>

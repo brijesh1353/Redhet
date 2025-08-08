@@ -49,8 +49,8 @@
 <br>
       
 <p align="center">
-<a href="[https://deepsystems.medium.com/)"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white"/></a>
-<a href="https://twitter.com/OSINT_Tactical"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="[https://deepsystems.medium.com/]"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white"/></a>
+<a href="[https://x.com/whiteroseRT](https://x.com/whiteroseRT)"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 <a href="https://keybase.io/osint_intel"><img src="https://img.shields.io/badge/Keybase-33A0FF.svg?style=for-the-badge&logo=Keybase&logoColor=white"/></a>
 <a href="https://www.reddit.com/user/OSINT_Tactical"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
 <a href="https://github.com/C3n7ral051nt4g3ncy"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>

@@ -87,8 +87,6 @@
 <br>
 
 <p align="center"> 
-
-<img width="600px" src="https://github-readme-stats-lake-omega.vercel.app/api?username=C3n7ral051nt4g3ncy&show_icons=true&line&theme=ocean_dark&midnight-purple&bg_color=100,000000,8a2eff" alt="C3n7ral051nt4g3ncy's GitHub Stats"/>
    
 <br>
       

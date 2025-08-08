@@ -64,26 +64,16 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-  <!-- Keybase -->
-  <a href="https://keybase.io/osint_intel">
-    <img src="https://img.shields.io/badge/Keybase-33A0FF.svg?style=for-the-badge&logo=keybase&logoColor=white"/>
-  </a>
-
   <!-- Reddit -->
-  <a href="https://www.reddit.com/user/OSINT_Tactical">
+  <a href="https://www.reddit.com/user/Prudent_Effort_4065/">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
   </a>
 
   <!-- GitHub -->
-  <a href="https://github.com/C3n7ral051nt4g3ncy">
+  <a href="https://github.com/redhet-whiterose">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <!-- Discord -->
-  <a href="https://top.gg/user/453260546671001600">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</p>
 
 
 <br>
